@@ -2,92 +2,146 @@
 <?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
 <Tienda-Musica>
     <cd>
-        <tituloAlbum>Physics-based animation</tituloAlbum>
-        <artista>Kenny Erleben</artista>
-        <tituloCanciones tiempo="2010/05/05">Charles River Media</tituloCanciones>
-        <selloDiscografico>978-1584503804</selloDiscografico>
-        <year>50.06</year>
+        <tituloAlbum>The Last Album</tituloAlbum>
+        <artista>Don Omar</artista>
+        <tituloCanciones tiempo="00:02:58">Vacilón</tituloCanciones>
+        <tituloCanciones tiempo="00:02:47">Perreo Sólido (Mala)</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Ramayama</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Encanto</tituloCanciones>
+        <tituloCanciones tiempo="00:03:12">Dile A Él</tituloCanciones>
+        <tituloCanciones tiempo="00:03:59">No Te Vayas</tituloCanciones>
+        <tituloCanciones tiempo="00:03:22">Báilame</tituloCanciones>
+        <tituloCanciones tiempo="00:03:07">Aguas Calientes</tituloCanciones>
+        <tituloCanciones tiempo="00:03:46">Fire</tituloCanciones>
+        <tituloCanciones tiempo="00:03:19">Pensando En Ti</tituloCanciones>
+        <selloDiscografico>
+            Machete Music – B0031390-02, Universal Music Latin Entertainment – B0031390-02</selloDiscografico>
+        <year>2019/12/06</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Principios de seguridad informatica para usuarios</tituloAlbum>
-        <artista>Carlos Garre</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-998-8</selloDiscografico>
-        <year>13.00</year>
+        <tituloAlbum>El Abayarde</tituloAlbum>
+        <artista>Tego Calderon</artista>
+        <tituloCanciones tiempo="00:03:23">Abayarde</tituloCanciones>
+        <tituloCanciones tiempo="00:02:32">Pa' Que Retozen</tituloCanciones>
+        <tituloCanciones tiempo="00:04:00">Guasa, Guasa</tituloCanciones>
+        <tituloCanciones tiempo="00:04:13">Dominicana</tituloCanciones>
+        <tituloCanciones tiempo="00:03:34">Al Natural</tituloCanciones>
+        <selloDiscografico>
+            BMG U.S. Latin – 82876-56625-2</selloDiscografico>
+        <year>2003/07/1</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Ejercicios complementarios de lógica digital</tituloAlbum>
-        <artista>Alberto Casado</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-703-8</selloDiscografico>
-        <year>12.00</year>
-       
-    </cd>
-    <cd>
-        <tituloAlbum>Redes y seguridad</tituloAlbum>
-        <artista>Pedro Casado</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-793-8</selloDiscografico>
-        <year>10.00</year>
-       
-    </cd>
-    <cd>
-        <tituloAlbum>Ofimatica para oficina</tituloAlbum>
-        <artista>Pablo Casado</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-790-8</selloDiscografico>
-        <year>10.00</year>
+        <tituloAlbum>El Enemy De Los Guasibiri</tituloAlbum>
+        <artista>Tego Calderon</artista>
+        <tituloCanciones tiempo="00:03:23">	Elegante De Boutique</tituloCanciones>
+        <tituloCanciones tiempo="00:02:32">	Gatas Gozan</tituloCanciones>
+        <tituloCanciones tiempo="00:04:00">Cosa Buena</tituloCanciones>
+        <tituloCanciones tiempo="00:04:13">	Cerca De Mi Neighborhood</tituloCanciones>
+        <tituloCanciones tiempo="00:03:34">Al Natural</tituloCanciones>
+        <selloDiscografico>
+            BMG U.S. Latin – 82876-56625-2</selloDiscografico>
+        <year>2004/07/13</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Seguridad</tituloAlbum>
-        <artista>Raul Casado</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-780-8</selloDiscografico>
-        <year>10.50</year>
+        <tituloAlbum>Pa'l Mundo</tituloAlbum>
+        <artista>Wisin y Yandel</artista>
+        <tituloCanciones tiempo="00:02:58">Llamé Pa' Verte (Bailando Sexy)</tituloCanciones>
+        <tituloCanciones tiempo="00:02:47">Mayor Que Yo Parte 2</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Rakata</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Noche De Sexo</tituloCanciones>
+        <tituloCanciones tiempo="00:03:12">Fuera De Base</tituloCanciones>
         
-    </cd>
-
-    <cd>
-        <tituloAlbum>cd Avanzado de seguridad informatica para usuarios</tituloAlbum>
-        <artista>Carlos Garre</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-778-8</selloDiscografico>
-        <year>12.00</year>
+        <selloDiscografico>
+        Disco Hit Productions – DHC 0183, Fresh Production (2) – none</selloDiscografico>
+        <year>2005/11/01</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Redes virtuales</tituloAlbum>
-        <artista>David Rodriguez</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-678-8</selloDiscografico>
-        <year>10.50</year>
+        <tituloAlbum>Barrio Fino</tituloAlbum>
+        <artista>Daddy Yankee</artista>
+        <tituloCanciones tiempo="00:02:58">Gasolina</tituloCanciones>
+        <tituloCanciones tiempo="00:02:47">Lo Que Pasó, Pasó</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Cuentame</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Que Vas A Hacer?</tituloCanciones>
+        <tituloCanciones tiempo="00:03:12">Golpe De Estado</tituloCanciones>
+        
+        <selloDiscografico>
+            Machete Music – B0031390-02, Universal Music Latin Entertainment – B0031390-02</selloDiscografico>
+        <year>2004/12/06</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Redes fisicas</tituloAlbum>
-        <artista>David Rodriguez</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-679-8</selloDiscografico>
-        <year>12.50</year>
+        <tituloAlbum>Papi Juancho</tituloAlbum>
+        <artista>Maluma</artista>
+        <tituloCanciones tiempo="00:02:58">	Hawái</tituloCanciones>
+        <tituloCanciones tiempo="00:02:47">Cielo A Un Diablo</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">	Luz Verde</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Vete, Vete</tituloCanciones>
+        <tituloCanciones tiempo="00:03:12">	Copas De Vino</tituloCanciones>
+        
+        <selloDiscografico>
+        Sony Music Latin – none</selloDiscografico>
+        <year>2020/08/21</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Programacion Python</tituloAlbum>
-        <artista>Javier Rodriguez</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-578-8</selloDiscografico>
-        <year>10.50</year>
+        <tituloAlbum>Colores</tituloAlbum>
+        <artista>J Balvin</artista>
+        <tituloCanciones tiempo="00:02:58">Amarillo</tituloCanciones>
+        <tituloCanciones tiempo="00:02:47">Azul</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Rojo</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Rosa</tituloCanciones>
+        <tituloCanciones tiempo="00:03:12">Morado</tituloCanciones>
+        
+        <selloDiscografico>
+            Universal Music</selloDiscografico>
+        <year>2020/3/19</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Programacion Java</tituloAlbum>
-        <artista>Javier Rodriguez</artista>
-        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
-        <selloDiscografico>978-84-9849-579-8</selloDiscografico>
-        <year>12.50</year>
+        <tituloAlbum>La Escuela</tituloAlbum>
+        <artista>Alexis Y Fido</artista>
+        <tituloCanciones tiempo="00:02:58">	No Te Vayas</tituloCanciones>
+        <tituloCanciones tiempo="00:02:47">Tu Flow</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Hoy Se Sale</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Reggaeton Ton</tituloCanciones>
+        <tituloCanciones tiempo="00:03:12">Dale Para Tra</tituloCanciones>
+        
+        <selloDiscografico>
+        Universal Music Latino – none</selloDiscografico>
+        <year>2020/05/15</year>
         
     </cd>
+    <cd>
+        <tituloAlbum>Mala Santa</tituloAlbum>
+        <artista>Becky G</artista>
+        <tituloCanciones tiempo="00:02:58">Mala Santa</tituloCanciones>
+        <tituloCanciones tiempo="00:02:47">Dollar</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">24/7</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Sin Pijama</tituloCanciones>
+        <tituloCanciones tiempo="00:03:12">Mayores</tituloCanciones>
+        
+        <selloDiscografico>
+        Kemosabe Records – none</selloDiscografico>
+        <year>2019/10/18</year>
+        
+    </cd>
+    <cd>
+        <tituloAlbum>King Of Kings</tituloAlbum>
+        <artista>Don Omar</artista>
+        <tituloCanciones tiempo="00:02:58">Ojitos Chiquitos</tituloCanciones>
+        <tituloCanciones tiempo="00:02:47">Conteo</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Cuentale</tituloCanciones>
+        <tituloCanciones tiempo="00:03:16">Salio El Sol</tituloCanciones>
+        <tituloCanciones tiempo="00:03:12">Bailando Sola</tituloCanciones>
+        
+        <selloDiscografico>
+            Machete Music – B0031390-02, Universal Music Latin Entertainment – B0031390-02</selloDiscografico>
+        <year>2006/05/23</year>
+        
+    </cd>
+    
 </Tienda-Musica>
