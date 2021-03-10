@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<Tienda-Musica>
+    <cd>
+        <tituloAlbum>Physics-based animation</tituloAlbum>
+        <artista>Kenny Erleben</artista>
+        <tituloCanciones tiempo="2010/05/05">Charles River Media</tituloCanciones>
+        <selloDiscografico>978-1584503804</selloDiscografico>
+        <year>50.06</year>
+        
+    </cd>
+    <cd>
+        <tituloAlbum>Principios de seguridad informatica para usuarios</tituloAlbum>
+        <artista>Carlos Garre</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-998-8</selloDiscografico>
+        <year>13.00</year>
+        
+    </cd>
+    <cd>
+        <tituloAlbum>Ejercicios complementarios de lógica digital</tituloAlbum>
+        <artista>Alberto Casado</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-703-8</selloDiscografico>
+        <year>12.00</year>
+       
+    </cd>
+    <cd>
+        <tituloAlbum>Redes y seguridad</tituloAlbum>
+        <artista>Pedro Casado</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-793-8</selloDiscografico>
+        <year>10.00</year>
+       
+    </cd>
+    <cd>
+        <tituloAlbum>Ofimatica para oficina</tituloAlbum>
+        <artista>Pablo Casado</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-790-8</selloDiscografico>
+        <year>10.00</year>
+        
+    </cd>
+    <cd>
+        <tituloAlbum>Seguridad</tituloAlbum>
+        <artista>Raul Casado</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-780-8</selloDiscografico>
+        <year>10.50</year>
+        
+    </cd>
+
+    <cd>
+        <tituloAlbum>cd Avanzado de seguridad informatica para usuarios</tituloAlbum>
+        <artista>Carlos Garre</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-778-8</selloDiscografico>
+        <year>12.00</year>
+        
+    </cd>
+    <cd>
+        <tituloAlbum>Redes virtuales</tituloAlbum>
+        <artista>David Rodriguez</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-678-8</selloDiscografico>
+        <year>10.50</year>
+        
+    </cd>
+    <cd>
+        <tituloAlbum>Redes fisicas</tituloAlbum>
+        <artista>David Rodriguez</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-679-8</selloDiscografico>
+        <year>12.50</year>
+        
+    </cd>
+    <cd>
+        <tituloAlbum>Programacion Python</tituloAlbum>
+        <artista>Javier Rodriguez</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-578-8</selloDiscografico>
+        <year>10.50</year>
+        
+    </cd>
+    <cd>
+        <tituloAlbum>Programacion Java</tituloAlbum>
+        <artista>Javier Rodriguez</artista>
+        <tituloCanciones tiempo="2010/05/05">Dykinson</tituloCanciones>
+        <selloDiscografico>978-84-9849-579-8</selloDiscografico>
+        <year>12.50</year>
+        
+    </cd>
+</Tienda-Musica>
