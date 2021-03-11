@@ -2,132 +2,132 @@
 <?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
 <tiendaMusica>
     <cd>
-        <tituloAlbum>The Last Album</tituloAlbum>
+        <Album>The Last Album</Album>
         <artista>Don Omar</artista>
-        <tituloCanciones tiempo="258">Vacilón</tituloCanciones>
-        <tituloCanciones tiempo="247">Perreo Sólido (Mala)</tituloCanciones>
-        <tituloCanciones tiempo="316">Ramayama</tituloCanciones>
-        <tituloCanciones tiempo="316">Encanto</tituloCanciones>
-        <tituloCanciones tiempo="312">Dile A Él</tituloCanciones>
-        <tituloCanciones tiempo="359">No Te Vayas</tituloCanciones>
-        <tituloCanciones tiempo="322">Báilame</tituloCanciones>
-        <tituloCanciones tiempo="307">Aguas Calientes</tituloCanciones>
-        <tituloCanciones tiempo="346">Fire</tituloCanciones>
-        <tituloCanciones tiempo="319">Pensando En Ti</tituloCanciones>
+        <Canciones tiempo="258">Vacilón</Canciones>
+        <Canciones tiempo="247">Perreo Sólido (Mala)</Canciones>
+        <Canciones tiempo="316">Ramayama</Canciones>
+        <Canciones tiempo="316">Encanto</Canciones>
+        <Canciones tiempo="312">Dile A Él</Canciones>
+        <Canciones tiempo="359">No Te Vayas</Canciones>
+        <Canciones tiempo="322">Báilame</Canciones>
+        <Canciones tiempo="307">Aguas Calientes</Canciones>
+        <Canciones tiempo="346">Fire</Canciones>
+        <Canciones tiempo="319">Pensando En Ti</Canciones>
         <selloDiscografico>Machete Music – B0031390-02, Universal Music Latin Entertainment – B0031390-02</selloDiscografico>
         <year>2019/12/06</year>
         
     </cd>
     <cd>
-        <tituloAlbum>El Abayarde</tituloAlbum>
+        <Album>El Abayarde</Album>
         <artista>Tego Calderon</artista>
-        <tituloCanciones tiempo="323">Abayarde</tituloCanciones>
-        <tituloCanciones tiempo="232">Pa' Que Retozen</tituloCanciones>
-        <tituloCanciones tiempo="400">Guasa, Guasa</tituloCanciones>
-        <tituloCanciones tiempo="413">Dominicana</tituloCanciones>
-        <tituloCanciones tiempo="334">Al Natural</tituloCanciones>
+        <Canciones tiempo="323">Abayarde</Canciones>
+        <Canciones tiempo="232">Pa' Que Retozen</Canciones>
+        <Canciones tiempo="400">Guasa, Guasa</Canciones>
+        <Canciones tiempo="413">Dominicana</Canciones>
+        <Canciones tiempo="334">Al Natural</Canciones>
         <selloDiscografico>BMG U.S. Latin – 82876-56625-2</selloDiscografico>
         <year>2003/07/1</year>
         
     </cd>
     <cd>
-        <tituloAlbum>El Enemy De Los Guasibiri</tituloAlbum>
+        <Album>El Enemy De Los Guasibiri</Album>
         <artista>Tego Calderon</artista>
-        <tituloCanciones tiempo="323">Elegante De Boutique</tituloCanciones>
-        <tituloCanciones tiempo="232">Gatas Gozan</tituloCanciones>
-        <tituloCanciones tiempo="400">Cosa Buena</tituloCanciones>
-        <tituloCanciones tiempo="413">Cerca De Mi Neighborhood</tituloCanciones>
-        <tituloCanciones tiempo="334">Al Natural</tituloCanciones>
+        <Canciones tiempo="323">Elegante De Boutique</Canciones>
+        <Canciones tiempo="232">Gatas Gozan</Canciones>
+        <Canciones tiempo="400">Cosa Buena</Canciones>
+        <Canciones tiempo="413">Cerca De Mi Neighborhood</Canciones>
+        <Canciones tiempo="334">Al Natural</Canciones>
         <selloDiscografico>BMG U.S. Latin – 82876-56625-2</selloDiscografico>
         <year>2004/07/13</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Pa'l Mundo</tituloAlbum>
+        <Album>Pa'l Mundo</Album>
         <artista>Wisin y Yandel</artista>
-        <tituloCanciones tiempo="258">Llamé Pa' Verte (Bailando Sexy)</tituloCanciones>
-        <tituloCanciones tiempo="247">Mayor Que Yo Parte 2</tituloCanciones>
-        <tituloCanciones tiempo="316">Rakata</tituloCanciones>
-        <tituloCanciones tiempo="316">Noche De Sexo</tituloCanciones>
-        <tituloCanciones tiempo="312">Fuera De Base</tituloCanciones>
+        <Canciones tiempo="258">Llamé Pa' Verte (Bailando Sexy)</Canciones>
+        <Canciones tiempo="247">Mayor Que Yo Parte 2</Canciones>
+        <Canciones tiempo="316">Rakata</Canciones>
+        <Canciones tiempo="316">Noche De Sexo</Canciones>
+        <Canciones tiempo="312">Fuera De Base</Canciones>
         
         <selloDiscografico>Disco Hit Productions – DHC 0183, Fresh Production (2) – none</selloDiscografico>
         <year>2005/11/01</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Barrio Fino</tituloAlbum>
+        <Album>Barrio Fino</Album>
         <artista>Daddy Yankee</artista>
-        <tituloCanciones tiempo="258">Gasolina</tituloCanciones>
-        <tituloCanciones tiempo="247">Lo Que Pasó, Pasó</tituloCanciones>
-        <tituloCanciones tiempo="316">Cuentame</tituloCanciones>
-        <tituloCanciones tiempo="316">Que Vas A Hacer?</tituloCanciones>
-        <tituloCanciones tiempo="312">Golpe De Estado</tituloCanciones>
+        <Canciones tiempo="258">Gasolina</Canciones>
+        <Canciones tiempo="247">Lo Que Pasó, Pasó</Canciones>
+        <Canciones tiempo="316">Cuentame</Canciones>
+        <Canciones tiempo="316">Que Vas A Hacer?</Canciones>
+        <Canciones tiempo="312">Golpe De Estado</Canciones>
         
         <selloDiscografico>Machete Music – B0031390-02, Universal Music Latin Entertainment – B0031390-02</selloDiscografico>
         <year>2004/12/06</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Papi Juancho</tituloAlbum>
+        <Album>Papi Juancho</Album>
         <artista>Maluma</artista>
-        <tituloCanciones tiempo="258">Hawái</tituloCanciones>
-        <tituloCanciones tiempo="247">Cielo A Un Diablo</tituloCanciones>
-        <tituloCanciones tiempo="316">Luz Verde</tituloCanciones>
-        <tituloCanciones tiempo="316">Vete, Vete</tituloCanciones>
-        <tituloCanciones tiempo="312">Copas De Vino</tituloCanciones>
+        <Canciones tiempo="258">Hawái</Canciones>
+        <Canciones tiempo="247">Cielo A Un Diablo</Canciones>
+        <Canciones tiempo="316">Luz Verde</Canciones>
+        <Canciones tiempo="316">Vete, Vete</Canciones>
+        <Canciones tiempo="312">Copas De Vino</Canciones>
         
         <selloDiscografico>Sony Music Latino</selloDiscografico>
         <year>2020/08/21</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Colores</tituloAlbum>
+        <Album>Colores</Album>
         <artista>J Balvin</artista>
-        <tituloCanciones tiempo="258">Amarillo</tituloCanciones>
-        <tituloCanciones tiempo="247">Azul</tituloCanciones>
-        <tituloCanciones tiempo="316">Rojo</tituloCanciones>
-        <tituloCanciones tiempo="316">Rosa</tituloCanciones>
-        <tituloCanciones tiempo="312">Morado</tituloCanciones>
+        <Canciones tiempo="258">Amarillo</Canciones>
+        <Canciones tiempo="247">Azul</Canciones>
+        <Canciones tiempo="316">Rojo</Canciones>
+        <Canciones tiempo="316">Rosa</Canciones>
+        <Canciones tiempo="312">Morado</Canciones>
         
         <selloDiscografico>Universal Music</selloDiscografico>
         <year>2020/3/19</year>
         
     </cd>
     <cd>
-        <tituloAlbum>La Escuela</tituloAlbum>
+        <Album>La Escuela</Album>
         <artista>Alexis Y Fido</artista>
-        <tituloCanciones tiempo="258">No Te Vayas</tituloCanciones>
-        <tituloCanciones tiempo="247">Tu Flow</tituloCanciones>
-        <tituloCanciones tiempo="316">Hoy Se Sale</tituloCanciones>
-        <tituloCanciones tiempo="316">Reggaeton Ton</tituloCanciones>
-        <tituloCanciones tiempo="312">Dale Para Tra</tituloCanciones>
+        <Canciones tiempo="258">No Te Vayas</Canciones>
+        <Canciones tiempo="247">Tu Flow</Canciones>
+        <Canciones tiempo="316">Hoy Se Sale</Canciones>
+        <Canciones tiempo="316">Reggaeton Ton</Canciones>
+        <Canciones tiempo="312">Dale Para Tra</Canciones>
         
         <selloDiscografico>Universal Music Latino</selloDiscografico>
         <year>2020/05/15</year>
         
     </cd>
     <cd>
-        <tituloAlbum>Mala Santa</tituloAlbum>
+        <Album>Mala Santa</Album>
         <artista>Becky G</artista>
-        <tituloCanciones tiempo="258">Mala Santa</tituloCanciones>
-        <tituloCanciones tiempo="247">Dollar</tituloCanciones>
-        <tituloCanciones tiempo="316">24/7</tituloCanciones>
-        <tituloCanciones tiempo="316">Sin Pijama</tituloCanciones>
-        <tituloCanciones tiempo="312">Mayores</tituloCanciones>
+        <Canciones tiempo="258">Mala Santa</Canciones>
+        <Canciones tiempo="247">Dollar</Canciones>
+        <Canciones tiempo="316">24/7</Canciones>
+        <Canciones tiempo="316">Sin Pijama</Canciones>
+        <Canciones tiempo="312">Mayores</Canciones>
         
         <selloDiscografico>Kemosabe Records</selloDiscografico>
         <year>2019/10/18</year>
         
     </cd>
     <cd>
-        <tituloAlbum>King Of Kings</tituloAlbum>
+        <Album>King Of Kings</Album>
         <artista>Don Omar</artista>
-        <tituloCanciones tiempo="258">Ojitos Chiquitos</tituloCanciones>
-        <tituloCanciones tiempo="247">Conteo</tituloCanciones>
-        <tituloCanciones tiempo="316">Cuentale</tituloCanciones>
-        <tituloCanciones tiempo="316">Salio El Sol</tituloCanciones>
-        <tituloCanciones tiempo="312">Bailando Sola</tituloCanciones>
+        <Canciones tiempo="258">Ojitos Chiquitos</Canciones>
+        <Canciones tiempo="247">Conteo</Canciones>
+        <Canciones tiempo="316">Cuentale</Canciones>
+        <Canciones tiempo="316">Salio El Sol</Canciones>
+        <Canciones tiempo="312">Bailando Sola</Canciones>
         
         <selloDiscografico>Machete Music – B0031390-02, Universal Music Latin Entertainment – B0031390-02</selloDiscografico>
         <year>2006/05/23</year>
