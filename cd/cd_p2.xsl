@@ -13,7 +13,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <th>year</th>
                 <th>tituloCanciones</th>
             </tr>
-            <xsl:for-each select="tiendaMusica/cd">
+            <xsl:for-each select="tiendaMusica/cd[artista='Wisin y Yandel']">
             
         <tr bgcolor="#D6D1D1">
             <td><xsl:value-of select="tituloAlbum"/></td>
@@ -30,7 +30,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <br></br>
                 </xsl:for-each>
             </td>
-            
         </tr>
     </xsl:for-each>
         
